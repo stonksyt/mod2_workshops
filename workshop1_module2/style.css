@@ -1,0 +1,28 @@
+#h1 {
+    display:inline-block;
+    margin-left: 230px;
+    vertical-align: top;
+    font-size: 120px;
+    color: #fff;
+}
+
+#space {
+    display:inline-block;
+    margin-left: 230px;
+    font-size: 120px;
+}
+
+.left {
+    float:left;
+    color: #fff;
+    font-size: 30;
+}
+
+.right {
+    float:right;
+    font-size:320px;
+}
+
+body {
+    background-color:black;
+}

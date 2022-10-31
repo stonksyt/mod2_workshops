@@ -1,7 +1,8 @@
 /* Formulier*/
 form {
     font-family:Ariel, Helvetica,
-    sans-serif;
+    sans-serif; 
+    background-color:aquamarine;
 }
 
 label {
@@ -19,3 +20,5 @@ label {
     margin-left: 200px;
 }
 /* Eind opmaak formulier*/
+
+body {background-color:aquamarine;}
